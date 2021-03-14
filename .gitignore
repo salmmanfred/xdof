@@ -1,3 +1,5 @@
 /target
 .env
 /ast
+/xdof-light/target
+/xdof-light/ast
